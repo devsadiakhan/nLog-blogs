@@ -145,12 +145,11 @@ npm run build
 ## Special Thanks
 
 1. Favicon: Photo by <a href="https://unsplash.com/@evieshaffer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Evie S.</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
 2. Login & Sign-Up Screen: Photo by <a href="https://unsplash.com/@simebasioli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sime Basioli</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Author
 
 **Hasibul Islam**
 
-- My Portfolio -> https://hasibulislam999.vercel.app/
+- My Portfolio -> https://hasibulislam999.vercel.app
 - My Github -> https://github.com/hasibulislam999
