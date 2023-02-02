@@ -2,6 +2,16 @@
 
 > _Natural Way Of Blogging. By writing politically incorrect things uwu_
 
+# Blog operation
+
+- [x] Sign up
+- [x] Sign in
+- [x] Create Post
+- [x] Search Post
+- [x] Static Sidebar
+- [x] Static Bottom bar
+- [ ] Deployment
+
 ## Try sign in
 
 - Email: `hasib143sl@gmail.com`
@@ -128,8 +138,9 @@ npm run build
 ## How to deploy the app on VPS (Virtual Private Server) ?
 
 `I recommend the following tutorials`
-* https://www.youtube.com/watch?v=Nxw2j1-srVc
-* https://github.com/safak/youtube/tree/mern-deployment
+
+- https://www.youtube.com/watch?v=Nxw2j1-srVc
+- https://github.com/safak/youtube/tree/mern-deployment
 
 ## Special Thanks
 
