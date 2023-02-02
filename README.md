@@ -14,8 +14,8 @@
 
 ## Try sign in
 
-- Email: `hasib143sl@gmail.com`
-- Password: `HasibulIslam1999`
+- Email: `hasib143sl@gmail.com` or `sadiadhira01@gmail.com`
+- Password: `HasibulIslam1999` or `SadiaKhanumDhira2000`
 
 ## Built using ( MERN STACK )
 
