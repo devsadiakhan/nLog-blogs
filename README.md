@@ -2,10 +2,6 @@
 
 > _Natural Way Of Blogging. By writing politically incorrect things uwu_
 
-# Watch the shorts
-
-> YouTube Shorts here: [Click Me](https://www.example.com)
-
 # Blog operation
 
 - [x] Sign up
