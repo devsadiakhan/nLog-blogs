@@ -41,7 +41,7 @@
 2. **Make sure you have npm (node package manager)**
 
 ```bash
-git clone https://github.com/hasibulislam999/9T5--nLog-blogs.git
+https://github.com/sadia-khanum/nLog-blogs.git
 ```
 
 ```bash
