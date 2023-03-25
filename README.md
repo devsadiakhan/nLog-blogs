@@ -10,7 +10,7 @@
 - [x] Search Post
 - [x] Static Sidebar
 - [x] Static Bottom bar
-- [ ] Deployment
+- [x] Deployment
 
 ## Try sign in
 
